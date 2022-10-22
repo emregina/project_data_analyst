@@ -23,7 +23,7 @@
 
 [Проектная документация](https://drive.google.com/file/d/1xbJ6f-S_17DjtPlri0lbc1NQz2fL2UEA/view?usp=sharing)
 
-Файл с кодом
+[Файл с кодом](https://github.com/emregina/project_data_analyst/blob/main/project_bank_customer_analysis/code_bank_customer_analysis.ipynb)
 
 [Презентация стейкхолдерам](https://drive.google.com/file/d/1bQlCYvSeabqV814tOHktkJTm1bdefhlb/view?usp=sharing)
 
