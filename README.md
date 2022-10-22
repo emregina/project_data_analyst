@@ -13,7 +13,7 @@
 Инструменты: DBeaver, PostgreSQL, join'ы, оконные функции
 
 
-## Bank customer analysis
+## project_bank_customer_analysis
 
 Заказчик: международный европейский банк.
 Цель: проанализировать клиентов банка и выявить какие характеристики влияют на отток пользователей, а также построить модель прогнозирования оттока пользователей.
@@ -21,10 +21,14 @@
 
 Исследование проводится с помощью [датасета](https://www.kaggle.com/datasets/santoshd3/bank-customers), взятого с сайта Kaggle.com
 
-[Проектная документация](https://drive.google.com/file/d/1xbJ6f-S_17DjtPlri0lbc1NQz2fL2UEA/view?usp=sharing)
+[Проектная документация](https://drive.google.com/file/d/1HeFdHvht6bsFhmwdK6qVLdKHxiI-xXKn/view?usp=sharing)
 
 [Файл с кодом](https://github.com/emregina/project_data_analyst/blob/main/project_bank_customer_analysis/code_bank_customer_analysis.ipynb)
 
-[Презентация стейкхолдерам](https://drive.google.com/file/d/1bQlCYvSeabqV814tOHktkJTm1bdefhlb/view?usp=sharing)
+[Презентация результатов](https://drive.google.com/file/d/1bQlCYvSeabqV814tOHktkJTm1bdefhlb/view?usp=sharing)
 
 Инструменты: Python, библиотеки pandas, numpy, matplotlib, seaborn, sklearn
+
+# Автор Емельянович Регина
+Контакты: emregina98@gmail.com
+[telegram](https://t.me/EmelRegina)
