@@ -25,6 +25,6 @@
 
 Файл с кодом
 
-Презентация стейкхолдерам
+[Презентация стейкхолдерам](https://drive.google.com/file/d/1bQlCYvSeabqV814tOHktkJTm1bdefhlb/view?usp=sharing)
 
-Инструменты
+Инструменты: Python, библиотеки pandas, numpy, matplotlib, seaborn, sklearn
