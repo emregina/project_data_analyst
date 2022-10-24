@@ -1,5 +1,5 @@
 # project_data_analyst
-Проекты по аналитике
+Проекты по аналитике, выполненные в рамках программы профессиональной переподготовки Аналитик данных ([программа](https://netology.ru/programs/data-analyst#/lessons))
 
 ## sql_project
 
@@ -12,7 +12,7 @@
 
 Инструменты: DBeaver, PostgreSQL, join'ы, оконные функции
 
-[Сертификат](https://drive.google.com/file/d/1OQ7mUduVeLtMYxtCHGzQhASCsP0DRkJA/view?usp=sharing) - получен в рамках прохождения программы профессиональной переподготовки Аналитик данных ([программа](https://netology.ru/programs/data-analyst#/lessons)) 
+[Сертификат](https://drive.google.com/file/d/1OQ7mUduVeLtMYxtCHGzQhASCsP0DRkJA/view?usp=sharing)
 
 
 ## project_bank_customer_analysis
@@ -33,15 +33,15 @@
 
 Инструменты: Python, библиотеки pandas, numpy, matplotlib, seaborn, sklearn
 
-[Свидетельство](https://drive.google.com/file/d/1ME6I6QmQG9DgwA9MYBwaQ32Oprqn6n82/view?usp=sharing) об окончании программы переподготовки Аналитик данных ([программа](https://netology.ru/programs/data-analyst#/lessons)). По результатам защиты итогового проекта получен зачет с отличием. Оригиналы документов отправлены по почте.
+[Свидетельство](https://drive.google.com/file/d/1ME6I6QmQG9DgwA9MYBwaQ32Oprqn6n82/view?usp=sharing) об окончании программы переподготовки Аналитик данных. По результатам защиты итогового проекта получен зачет с отличием. Оригиналы документов отправлены по почте.
 
-## project_excel'
+## project_excel*
 
 [Работа с формулами](https://docs.google.com/spreadsheets/d/1m0ZMHIcXKtVccNA4f2K0AgAbIhqQJL5J/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true)
 
 [План-фактный анализ](https://docs.google.com/spreadsheets/d/1JG5I0IxE16ZfoRTl2R8UWy_Rs9_n5PEo/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true)
 
-'*данные в файлах выдуманы и отношения к действительности не имеют. Использованы для демонтрации навыков.
+*данные в файлах выдуманы и отношения к действительности не имеют. Использованы для демонтрации навыков.
 
 [Свидетельства](https://drive.google.com/file/d/125zdeYoXzbjcvRKnmTlvFOK6VpkUj_CS/view?usp=sharing) о прохождении курсов по Excel.
 
