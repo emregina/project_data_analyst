@@ -17,6 +17,8 @@
 
 ## project_bank_customer_analysis
 
+Анализ клиентов банка (поиск инсайтов, составление рекомендаций стейкхолдерам, построение модели оттока клиентов)
+
 Заказчик: международный европейский банк.
 Цель: проанализировать клиентов банка и выявить какие характеристики влияют на отток пользователей, а также построить модель прогнозирования оттока пользователей.
 Бизнес-задача: выявить какие пользователи, подвержены оттоку, снизить отток и тем самым увеличить прибыль банка.
@@ -37,9 +39,9 @@
 
 ## project_excel*
 
-[Работа с формулами](https://docs.google.com/spreadsheets/d/1m0ZMHIcXKtVccNA4f2K0AgAbIhqQJL5J/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true)
+[Работа с формулами](https://docs.google.com/spreadsheets/d/1m0ZMHIcXKtVccNA4f2K0AgAbIhqQJL5J/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true) - если(), счетесли(), срзнач(), суммпроизв(), правсимв(), епусто(), и(), год()
 
-[План-фактный анализ](https://docs.google.com/spreadsheets/d/1JG5I0IxE16ZfoRTl2R8UWy_Rs9_n5PEo/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true)
+[План-фактный анализ](https://docs.google.com/spreadsheets/d/1JG5I0IxE16ZfoRTl2R8UWy_Rs9_n5PEo/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true) - впр()
 
 *данные в файлах выдуманы и отношения к действительности не имеют. Использованы для демонтрации навыков.
 
