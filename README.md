@@ -37,13 +37,7 @@
 
 [Свидетельство](https://drive.google.com/file/d/1ME6I6QmQG9DgwA9MYBwaQ32Oprqn6n82/view?usp=sharing) об окончании программы переподготовки Аналитик данных. По результатам защиты итогового проекта получен зачет с отличием. Оригиналы документов отправлены по почте.
 
-## project_excel*
-
-[Работа с формулами](https://docs.google.com/spreadsheets/d/1m0ZMHIcXKtVccNA4f2K0AgAbIhqQJL5J/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true) - если(), счетесли(), срзнач(), суммпроизв(), правсимв(), епусто(), и(), год()
-
-[План-фактный анализ](https://docs.google.com/spreadsheets/d/1JG5I0IxE16ZfoRTl2R8UWy_Rs9_n5PEo/edit?usp=sharing&ouid=115476839822309515126&rtpof=true&sd=true) - впр()
-
-*данные в файлах выдуманы и отношения к действительности не имеют. Использованы для демонтрации навыков.
+## excel
 
 [Свидетельства](https://drive.google.com/file/d/125zdeYoXzbjcvRKnmTlvFOK6VpkUj_CS/view?usp=sharing) о прохождении курсов по Excel.
 
