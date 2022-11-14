@@ -35,7 +35,7 @@
 
 Инструменты: Python, библиотеки pandas, numpy, matplotlib, seaborn, sklearn
 
-[Свидетельство](https://drive.google.com/file/d/1ME6I6QmQG9DgwA9MYBwaQ32Oprqn6n82/view?usp=sharing) об окончании программы переподготовки Аналитик данных. По результатам защиты итогового проекта получен зачет с отличием. Оригиналы документов отправлены по почте.
+[Свидетельство](https://drive.google.com/file/d/1ME6I6QmQG9DgwA9MYBwaQ32Oprqn6n82/view?usp=sharing) об окончании программы переподготовки Аналитик данных. По результатам защиты итогового проекта получен зачет с отличием.
 
 ## excel
 
